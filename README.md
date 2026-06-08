@@ -13,6 +13,6 @@ print(summarise(data))
 
 ## Functions
 
-- `mean(numbers)` — returns the aritmetic mean
+- `mean(numbers)` — returns the arithmetic mean
 - `median(numbers)` — returns the median value
 - `summarise(numbers)` — returns a dict with mean, median, min, and max
